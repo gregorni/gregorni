@@ -7,8 +7,8 @@ I've previously coded in Bash, Python and Rust, although I'm open to trying out 
 
 ## My apps
 
-- [Letterpress](https://gitlab.com/gregorni/letterpress)
-- [Calligraphy](https://gitlab.com/gregorni/calligraphy)
+- [Letterpress](https://gitlab.gnome.org/World/letterpress)
+- [Calligraphy](https://gitlab.gnome.org/World/calligraphy)
 
 
 ## My Socials:
