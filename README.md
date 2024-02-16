@@ -2,8 +2,7 @@
 
 Hi, my name is Gregor Niehl.
 
-I'm a teenage tech enthusiast from Germany mostly interested in Linux and Open Source.
-I've previously coded in Bash, Python and Rust, although I'm open to trying out new languages.
+I'm a teenage tech enthusiast from Germany born in 2007. I'm mostly interested in Linux and Open Source.
 
 ## My apps
 
