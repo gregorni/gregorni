@@ -7,7 +7,6 @@ I'm a teenage tech enthusiast from Germany born in 2007. I'm mostly interested i
 ## My apps
 
 - [Letterpress](https://gitlab.gnome.org/World/letterpress)
-- [Calligraphy](https://gitlab.gnome.org/World/calligraphy)
 
 
 ## My Socials:
