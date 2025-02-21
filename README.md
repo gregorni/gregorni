@@ -10,7 +10,6 @@ I'm a teenage tech enthusiast from Germany born in 2007. I'm mostly interested i
 
 
 ## My Socials:
-- [Mastodon](https://fosstodon.org/@gregorni)
 - [Matrix](https://matrix.to/#/@gregorni:gnome.org)
 
 ## My other Git accounts:
